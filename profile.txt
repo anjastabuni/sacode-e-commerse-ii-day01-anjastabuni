@@ -1,0 +1,4 @@
+<h1>Halaman Profil</h1>
+<p>Ini adalah halaman profil. terih makasih kam su kunjungi.</p>
+
+<a href="index.html">Kembali ke index</a>
